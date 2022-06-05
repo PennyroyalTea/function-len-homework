@@ -1,2 +1,8 @@
-# function-len-homework
-Homework on designing an algorithm for function len calculation
+# Задание: посчитать длину произвольной функции на произвольном отрезке
+
+1. Сделать fork этого репозитория
+2. Реализовать функцию `calculate_function_len_on_a_segment_with_n_steps` в main.py
+3. Установить pytest
+4. Перейти в корневую директорию проекта, запустить тесты `python3 -m pytest -v`
+5. ???
+6. PROFIT!
