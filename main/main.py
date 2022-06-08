@@ -1,5 +1,4 @@
 from typing import Callable
-from sympy import fu
 
 
 def dist(p1, p2):
@@ -18,7 +17,6 @@ def calculate_function_len_on_a_segment_with_n_steps(
     :param n: количество отрезков, которыми функция приближается
     :return: длину функции на отрезке [a, b], приближенную n отрезками
     """
-    # TODO: реализовать здесь код функции
     distance_btw_points = (b -a)/n
     main_distance_x = a
     function_distance = 0
